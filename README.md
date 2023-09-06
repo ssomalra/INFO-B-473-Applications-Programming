@@ -61,7 +61,7 @@ Execution:
 4) Click on the 'Cell' tab, then select 'Run All'
 5) Once the code in all the cells have been executed, check the output
 
-## Assignment 4 - R
+## Assignment 4:  R
 This script provides instructions to execute various R commands such as coding vectors, creating functions, reading files, and plotting various visualization graphs (e.g. heatmaps and scatterplots)
 
 Required files:
@@ -78,3 +78,16 @@ Execution:
 Output files:
 - Assign4_Heatmap.png
 - Assign4_ggplot.png
+
+## Assignment 5: HTML
+This script provides instructions to execute various HTML commands to display information in a table in a webpage.
+
+Required files: Assignment_5.html - an HTML file that contains code to create a web page
+
+Execution:
+1) Download Assignment_5.html script
+2) Open the terminal
+3) Type 'python -m http.server'
+4) Copy the url ('http://[::]:8000/')
+5) Paste the url in the web browser
+6) Open the Assignment_5.html script in the web browser to view the table and its contents.
