@@ -60,3 +60,21 @@ Execution:
 3) Open the Assignment_3.ipynb file
 4) Click on the 'Cell' tab, then select 'Run All'
 5) Once the code in all the cells have been executed, check the output
+
+## Assignment 4 - R
+This script provides instructions to execute various R commands such as coding vectors, creating functions, reading files, and plotting various visualization graphs (e.g. heatmaps and scatterplots)
+
+Required files:
+- Assignment_4.R - a script from R Studio containing the R code to be executed
+- Assignment4.csv - a file containing a dataset with comman separated values
+
+Execution:
+1) Open R Studio
+2) Upload and open the Assignment_4.R file on R Studio
+3) Highlight all the code in the R Script 
+4) Click on the 'Run' button in the header 
+5) View the output in the R console
+
+Output files:
+- Assign4_Heatmap.png
+- Assign4_ggplot.png
