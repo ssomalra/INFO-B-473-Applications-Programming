@@ -8,7 +8,7 @@ The curriculum offers an introduction to the following programming languages:
 - R
 - HTML
 
-## Assignment 1: Linux
+## Assignment 1: Unix
 This script provides instructions to search for an archived file called 'deleteme', unarchive its contents, and remove them. The script also downloads a taxonomy data file from the NCBI FTP site. 
 
 Required files:
@@ -26,3 +26,17 @@ Execution:
 
 Output files:
 taxdump.tar.gz
+
+## Assignment 2: Python
+This script provides instructions to execute basic python commands such as coding mathematical operations, creating and modifying lists, creating and reading dictionaries, and for loops.  
+
+Required file: assign2.ipynb - a notebook document by Jupyter Notebook containing Python code
+
+Required package: math module - to use the .sqrt() function
+
+Execution:
+1) Open Jupyter Notebook
+2) Upload the assign2.ipynb file on Jupyter Notebook
+3) Open the assign2.ipynb file
+4) Click on the 'Cell' tab, then select 'Run All'
+5) Once the code in all the cells have been executed, check the output
