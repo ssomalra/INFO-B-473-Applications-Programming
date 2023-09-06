@@ -40,3 +40,23 @@ Execution:
 3) Open the assign2.ipynb file
 4) Click on the 'Cell' tab, then select 'Run All'
 5) Once the code in all the cells have been executed, check the output
+
+## Assignment 3: Python
+The script provides instructions to execute python commands that uses functions and libraries such as NumPy, Pandas, and Matplotlib.
+
+Required files:
+- assign3.ipynb - a notebook document by Jupyter Notebook containing Python code
+- file1.txt - a text file containing genomic data
+- file2.txt - a text file containing genomic data
+
+Required packages:
+- NumPy - used to create and analyze an array
+- Pandas - used to load and analyze a DataFrame
+- matplotlib - used for data visualization
+
+Execution:
+1) Open Jupyter Notebook
+2) Upload the Assignment_3.ipynb file on Jupyter Notebook
+3) Open the Assignment_3.ipynb file
+4) Click on the 'Cell' tab, then select 'Run All'
+5) Once the code in all the cells have been executed, check the output
